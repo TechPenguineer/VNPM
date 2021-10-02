@@ -1,0 +1,8 @@
+﻿
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-documentation=false
+
+*.xaml linguist-detectable=true
+*.xaml linguist-language=xml
+*.xaml linguist-documentation=true

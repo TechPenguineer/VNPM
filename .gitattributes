@@ -6,3 +6,7 @@
 *.xaml linguist-detectable=true
 *.xaml linguist-language=xml
 *.xaml linguist-documentation=true
+
+*.yml linguist-detectable=true
+*.yml linguist-language=yaml
+*.yml linguist-documentation=true

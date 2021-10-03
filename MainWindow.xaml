@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VNPM"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="VNPM - Visualized Node Package Manager" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="25"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FF434344" HorizontalAlignment="Left" Height="419" Stroke="Black" VerticalAlignment="Top" Width="200"/>
     </Grid>
 </Window>
